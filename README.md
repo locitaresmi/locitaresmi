@@ -3,7 +3,7 @@
 
 <!-- Intro -->
 <p align="center">
-  I'm <strong>🙋‍♀️ Wening</strong>, a product researcher currently learning about data and finance.
+  I'm <strong>🙋‍♀️ Wening</strong>, a multidisciplinary learner currently learning about data and finance.
 </p>
 
 <!-- Social Media Icons -->
